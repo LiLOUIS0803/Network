@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1652061159 source:/home/louis/Desktop/server/server/main.c
+	<stdlib.h>
+	<pthread.h>
+	<sys/types.h>
+	<sys/socket.h>
+	<stdbool.h>
+	<sys/time.h>
+	<unistd.h>
+	<sys/queue.h>
+	<math.h>
+	<string.h>
+	<netinet/in.h>
+	<signal.h>
+	<stdio.h>
+
