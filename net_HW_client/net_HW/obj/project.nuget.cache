@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "IIs5zKLQRBMoEUlxvbj5Z+4aDUA7yvvUqJmT86cEk1ZBMj6JCpzzcrwaEzTHpqlvrQVnhCytBVWxTBx2SUvDFg==",
+  "success": true,
+  "projectFilePath": "D:\\project\\TCPCode\\net_HW_client - 複製\\net_HW\\net_HW.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\twn98\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.16\\microsoft.netcore.app.host.win-x64.5.0.16.nupkg.sha512"
+  ],
+  "logs": []
+}
